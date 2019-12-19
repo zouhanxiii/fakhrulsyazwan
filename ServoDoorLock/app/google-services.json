@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251689571546",
+    "firebase_url": "https://fir-auth-b19c1.firebaseio.com",
+    "project_id": "fir-auth-b19c1",
+    "storage_bucket": "fir-auth-b19c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251689571546:android:e17d00f9b770d33081c1e3",
+        "android_client_info": {
+          "package_name": "com.example.philipgo.servodoorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251689571546-cqtctlp9m3gbcgbkeb2nht3dd5m32427.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.philipgo.servodoorlock",
+            "certificate_hash": "46226b330d52bdca59627b3f7e4739481ef1762f"
+          }
+        },
+        {
+          "client_id": "251689571546-0iqfnen2dfls0i79oupimvd0g6pijl0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcEUlobux71cOctdDFF_TMB1hc-jXeR3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251689571546-0iqfnen2dfls0i79oupimvd0g6pijl0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

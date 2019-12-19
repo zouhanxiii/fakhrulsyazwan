@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Servo Door Lock</string>
+
+    <string name="facebook_application_id" translatable="false">706800163172103</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb706800163172103</string>
+    <string name="servo_lock">Servo Lock</string>
+    <string name="signout">SignOut</string>
+    <string name="lock_state_locked">Lock State: LOCKED</string>
+    <string name="todo">TODO</string>
+    <string name="connect_to_bluetooth_module">Connect to Bluetooth Module</string>
+    <string name="lock_unlock_door">Lock/Unlock Door</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="exit">Exit</string>
+</resources>
